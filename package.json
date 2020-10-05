@@ -1,0 +1,19 @@
+{
+  "name": "major-income",
+  "version": "1.0.0",
+  "description": "Explain what income you can get based on college major",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download-data": "node ./downloadData.js"
+  },
+  "author": "Dylan Nissley <dylan.nissley@gmail.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "axios": "^0.20.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.20"
+  }
+}
