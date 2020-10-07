@@ -1,0 +1,2520 @@
+[
+  {
+    "cipCode": null,
+    "name": "Overall.",
+    "medianEarnings": 39700,
+    "medianDebt": 23327
+  },
+  {
+    "cipCode": "1604",
+    "name": "Slavic, Baltic and Albanian Languages, Literatures, and Linguistics.",
+    "earningsSampleSize": 20,
+    "medianEarnings": 31000,
+    "debtSampleSize": 20,
+    "medianDebt": 27125
+  },
+  {
+    "cipCode": "3010",
+    "name": "Biopsychology.",
+    "earningsSampleSize": 21,
+    "medianEarnings": 40400,
+    "debtSampleSize": 42,
+    "medianDebt": 18250
+  },
+  {
+    "cipCode": "4514",
+    "name": "Rural Sociology.",
+    "earningsSampleSize": 22,
+    "medianEarnings": 27600,
+    "debtSampleSize": 26,
+    "medianDebt": 20161
+  },
+  {
+    "cipCode": "3026",
+    "name": "Cultural Studies/Critical Theory and Analysis.",
+    "earningsSampleSize": 22,
+    "medianEarnings": 19600,
+    "debtSampleSize": 26,
+    "medianDebt": 8500
+  },
+  {
+    "cipCode": "1411",
+    "name": "Engineering Mechanics.",
+    "earningsSampleSize": 22,
+    "medianEarnings": 62400,
+    "debtSampleSize": 52,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "5132",
+    "name": "Bioethics/Medical Ethics.",
+    "earningsSampleSize": 23,
+    "medianEarnings": 49700,
+    "debtSampleSize": 22,
+    "medianDebt": 55324
+  },
+  {
+    "cipCode": "4503",
+    "name": "Archeology.",
+    "earningsSampleSize": 26,
+    "medianEarnings": 19700,
+    "debtSampleSize": 32,
+    "medianDebt": 20521
+  },
+  {
+    "cipCode": "1511",
+    "name": "Engineering-Related Technologies.",
+    "earningsSampleSize": 27,
+    "medianEarnings": 55300,
+    "debtSampleSize": 24,
+    "medianDebt": 13237
+  },
+  {
+    "cipCode": "0107",
+    "name": "International Agriculture.",
+    "earningsSampleSize": 28,
+    "medianEarnings": 28400,
+    "debtSampleSize": 35,
+    "medianDebt": 26640
+  },
+  {
+    "cipCode": "4002",
+    "name": "Astronomy and Astrophysics.",
+    "earningsSampleSize": 29,
+    "medianEarnings": 27700,
+    "debtSampleSize": 41,
+    "medianDebt": 19530
+  },
+  {
+    "cipCode": "4605",
+    "name": "Plumbing and Related Water Supply Services.",
+    "earningsSampleSize": 30,
+    "medianEarnings": 23000,
+    "debtSampleSize": 24,
+    "medianDebt": 7521
+  },
+  {
+    "cipCode": "1434",
+    "name": "Forest Engineering.",
+    "earningsSampleSize": 32,
+    "medianEarnings": 48800,
+    "debtSampleSize": 37,
+    "medianDebt": 22000
+  },
+  {
+    "cipCode": "4099",
+    "name": "Physical Sciences, Other.",
+    "earningsSampleSize": 36,
+    "medianEarnings": 18100,
+    "debtSampleSize": 41,
+    "medianDebt": 21988
+  },
+  {
+    "cipCode": "3031",
+    "name": "Human Computer Interaction.",
+    "earningsSampleSize": 38,
+    "medianEarnings": 107900,
+    "debtSampleSize": 25,
+    "medianDebt": 33651
+  },
+  {
+    "cipCode": "4699",
+    "name": "Construction Trades, Other.",
+    "earningsSampleSize": 39,
+    "medianEarnings": 23300,
+    "debtSampleSize": 49,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "3023",
+    "name": "Intercultural/Multicultural and Diversity Studies.",
+    "earningsSampleSize": 39,
+    "medianEarnings": 20400,
+    "debtSampleSize": 54,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "1443",
+    "name": "Biochemical Engineering.",
+    "earningsSampleSize": 44,
+    "medianEarnings": 56800,
+    "debtSampleSize": 51,
+    "medianDebt": 22500
+  },
+  {
+    "cipCode": "4799",
+    "name": "Mechanic and Repair Technologies/Technicians, Other.",
+    "earningsSampleSize": 48,
+    "medianEarnings": 44900,
+    "debtSampleSize": 45,
+    "medianDebt": 10000
+  },
+  {
+    "cipCode": "1424",
+    "name": "Ocean Engineering.",
+    "earningsSampleSize": 49,
+    "medianEarnings": 61200,
+    "debtSampleSize": 37,
+    "medianDebt": 22204
+  },
+  {
+    "cipCode": "0104",
+    "name": "Agricultural and Food Products Processing.",
+    "earningsSampleSize": 53,
+    "medianEarnings": 64400,
+    "debtSampleSize": 77,
+    "medianDebt": 23500
+  },
+  {
+    "cipCode": "5125",
+    "name": "Veterinary Biomedical and Clinical Sciences.",
+    "earningsSampleSize": 53,
+    "medianEarnings": 61600,
+    "debtSampleSize": 57,
+    "medianDebt": 46321
+  },
+  {
+    "cipCode": "1441",
+    "name": "Electromechanical Engineering.",
+    "earningsSampleSize": 55,
+    "medianEarnings": 63700,
+    "debtSampleSize": 54,
+    "medianDebt": 31000
+  },
+  {
+    "cipCode": "1906",
+    "name": "Housing and Human Environments.",
+    "earningsSampleSize": 55,
+    "medianEarnings": 38300,
+    "debtSampleSize": 69,
+    "medianDebt": 26912
+  },
+  {
+    "cipCode": "3905",
+    "name": "Religious/Sacred Music.",
+    "earningsSampleSize": 57,
+    "medianEarnings": 38700,
+    "debtSampleSize": 82,
+    "medianDebt": 40999
+  },
+  {
+    "cipCode": "2399",
+    "name": "English Language and Literature/Letters, Other.",
+    "earningsSampleSize": 57,
+    "medianEarnings": 27300,
+    "debtSampleSize": 70,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "2610",
+    "name": "Pharmacology and Toxicology.",
+    "earningsSampleSize": 57,
+    "medianEarnings": 69200,
+    "debtSampleSize": 68,
+    "medianDebt": 32417
+  },
+  {
+    "cipCode": "3199",
+    "name": "Parks, Recreation, Leisure, and Fitness Studies, Other.",
+    "earningsSampleSize": 60,
+    "medianEarnings": 29500,
+    "debtSampleSize": 97,
+    "medianDebt": 21832
+  },
+  {
+    "cipCode": "3032",
+    "name": "Marine Sciences.",
+    "earningsSampleSize": 60,
+    "medianEarnings": 28200,
+    "debtSampleSize": 69,
+    "medianDebt": 17259
+  },
+  {
+    "cipCode": "1605",
+    "name": "Germanic Languages, Literatures, and Linguistics.",
+    "earningsSampleSize": 60,
+    "medianEarnings": 30300,
+    "debtSampleSize": 96,
+    "medianDebt": 22000
+  },
+  {
+    "cipCode": "3899",
+    "name": "Philosophy and Religious Studies, Other.",
+    "earningsSampleSize": 60,
+    "medianEarnings": 48900,
+    "debtSampleSize": 54,
+    "medianDebt": 27956
+  },
+  {
+    "cipCode": "2611",
+    "name": "Biomathematics, Bioinformatics, and Computational Biology.",
+    "earningsSampleSize": 61,
+    "medianEarnings": 67800,
+    "debtSampleSize": 88,
+    "medianDebt": 63545
+  },
+  {
+    "cipCode": "1309",
+    "name": "Social and Philosophical Foundations of Education.",
+    "earningsSampleSize": 64,
+    "medianEarnings": 53700,
+    "debtSampleSize": 80,
+    "medianDebt": 52811
+  },
+  {
+    "cipCode": "1420",
+    "name": "Metallurgical Engineering.",
+    "earningsSampleSize": 64,
+    "medianEarnings": 71300,
+    "debtSampleSize": 89,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "1432",
+    "name": "Polymer/Plastics Engineering.",
+    "earningsSampleSize": 68,
+    "medianEarnings": 65100,
+    "debtSampleSize": 128,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3008",
+    "name": "Mathematics and Computer Science.",
+    "earningsSampleSize": 68,
+    "medianEarnings": 57700,
+    "debtSampleSize": 87,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "1302",
+    "name": "Bilingual, Multilingual, and Multicultural Education.",
+    "earningsSampleSize": 72,
+    "medianEarnings": 62700,
+    "debtSampleSize": 54,
+    "medianDebt": 20669
+  },
+  {
+    "cipCode": "2902",
+    "name": "Intelligence, Command Control and Information Operations.",
+    "earningsSampleSize": 73,
+    "medianEarnings": 43400,
+    "debtSampleSize": 143,
+    "medianDebt": 26997
+  },
+  {
+    "cipCode": "5002",
+    "name": "Crafts/Craft Design, Folk Art and Artisanry.",
+    "earningsSampleSize": 77,
+    "medianEarnings": 23900,
+    "debtSampleSize": 80,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "4102",
+    "name": "Nuclear and Industrial Radiologic Technologies/Technicians.",
+    "earningsSampleSize": 78,
+    "medianEarnings": 54200,
+    "debtSampleSize": 58,
+    "medianDebt": 9500
+  },
+  {
+    "cipCode": "3012",
+    "name": "Historic Preservation and Conservation.",
+    "earningsSampleSize": 80,
+    "medianEarnings": 34800,
+    "debtSampleSize": 93,
+    "medianDebt": 58063
+  },
+  {
+    "cipCode": "1306",
+    "name": "Educational Assessment, Evaluation, and Research.",
+    "earningsSampleSize": 82,
+    "medianEarnings": 85800,
+    "debtSampleSize": 141,
+    "medianDebt": 60758
+  },
+  {
+    "cipCode": "1445",
+    "name": "Biological/Biosystems Engineering.",
+    "earningsSampleSize": 88,
+    "medianEarnings": 48400,
+    "debtSampleSize": 123,
+    "medianDebt": 23025
+  },
+  {
+    "cipCode": "1412",
+    "name": "Engineering Physics.",
+    "earningsSampleSize": 90,
+    "medianEarnings": 73900,
+    "debtSampleSize": 131,
+    "medianDebt": 27254
+  },
+  {
+    "cipCode": "3903",
+    "name": "Missions/Missionary Studies and Missiology.",
+    "earningsSampleSize": 92,
+    "medianEarnings": 19800,
+    "debtSampleSize": 163,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "2599",
+    "name": "Library Science, Other.",
+    "earningsSampleSize": 94,
+    "medianEarnings": 48100,
+    "debtSampleSize": 114,
+    "medianDebt": 54246
+  },
+  {
+    "cipCode": "1699",
+    "name": "Foreign Languages, Literatures, and Linguistics, Other.",
+    "earningsSampleSize": 94,
+    "medianEarnings": 46000,
+    "debtSampleSize": 136,
+    "medianDebt": 25500
+  },
+  {
+    "cipCode": "0399",
+    "name": "Natural Resources and Conservation, Other.",
+    "earningsSampleSize": 96,
+    "medianEarnings": 24100,
+    "debtSampleSize": 111,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3028",
+    "name": "Dispute Resolution.",
+    "earningsSampleSize": 102,
+    "medianEarnings": 68000,
+    "debtSampleSize": 111,
+    "medianDebt": 69355
+  },
+  {
+    "cipCode": "2799",
+    "name": "Mathematics and Statistics, Other.",
+    "earningsSampleSize": 105,
+    "medianEarnings": 75500,
+    "debtSampleSize": 130,
+    "medianDebt": 29010
+  },
+  {
+    "cipCode": "4010",
+    "name": "Materials Sciences.",
+    "earningsSampleSize": 110,
+    "medianEarnings": 62500,
+    "debtSampleSize": 162,
+    "medianDebt": 26876
+  },
+  {
+    "cipCode": "0112",
+    "name": "Soil Sciences.",
+    "earningsSampleSize": 116,
+    "medianEarnings": 39100,
+    "debtSampleSize": 145,
+    "medianDebt": 24000
+  },
+  {
+    "cipCode": "5136",
+    "name": "Movement and Mind-Body Therapies and Education.",
+    "earningsSampleSize": 116,
+    "medianEarnings": 22200,
+    "debtSampleSize": 138,
+    "medianDebt": 9500
+  },
+  {
+    "cipCode": "0410",
+    "name": "Real Estate Development.",
+    "earningsSampleSize": 123,
+    "medianEarnings": 109300,
+    "debtSampleSize": 132,
+    "medianDebt": 82000
+  },
+  {
+    "cipCode": "5126",
+    "name": "Health Aides/Attendants/Orderlies.",
+    "earningsSampleSize": 127,
+    "medianEarnings": 23100,
+    "debtSampleSize": 122,
+    "medianDebt": 10361
+  },
+  {
+    "cipCode": "4704",
+    "name": "Precision Systems Maintenance and Repair Technologies.",
+    "earningsSampleSize": 128,
+    "medianEarnings": 29000,
+    "debtSampleSize": 130,
+    "medianDebt": 11852
+  },
+  {
+    "cipCode": "1428",
+    "name": "Textile Sciences and Engineering.",
+    "earningsSampleSize": 129,
+    "medianEarnings": 42400,
+    "debtSampleSize": 267,
+    "medianDebt": 22500
+  },
+  {
+    "cipCode": "1413",
+    "name": "Engineering Science.",
+    "earningsSampleSize": 129,
+    "medianEarnings": 69600,
+    "debtSampleSize": 150,
+    "medianDebt": 23750
+  },
+  {
+    "cipCode": "1315",
+    "name": "Teaching Assistants/Aides.",
+    "earningsSampleSize": 135,
+    "medianEarnings": 25800,
+    "debtSampleSize": 96,
+    "medianDebt": 12605
+  },
+  {
+    "cipCode": "1437",
+    "name": "Operations Research.",
+    "earningsSampleSize": 138,
+    "medianEarnings": 111500,
+    "debtSampleSize": 122,
+    "medianDebt": 15000
+  },
+  {
+    "cipCode": "1307",
+    "name": "International and Comparative Education.",
+    "earningsSampleSize": 144,
+    "medianEarnings": 55900,
+    "debtSampleSize": 159,
+    "medianDebt": 60160
+  },
+  {
+    "cipCode": "4004",
+    "name": "Atmospheric Sciences and Meteorology.",
+    "earningsSampleSize": 146,
+    "medianEarnings": 31800,
+    "debtSampleSize": 187,
+    "medianDebt": 26969
+  },
+  {
+    "cipCode": "1099",
+    "name": "Communications Technologies/Technicians and Support Services, Other.",
+    "earningsSampleSize": 150,
+    "medianEarnings": 32300,
+    "debtSampleSize": 159,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "0404",
+    "name": "Environmental Design.",
+    "earningsSampleSize": 157,
+    "medianEarnings": 47000,
+    "debtSampleSize": 149,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "4602",
+    "name": "Carpenters.",
+    "earningsSampleSize": 161,
+    "medianEarnings": 26600,
+    "debtSampleSize": 200,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "4513",
+    "name": "Sociology and Anthropology.",
+    "earningsSampleSize": 162,
+    "medianEarnings": 26900,
+    "debtSampleSize": 229,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "1001",
+    "name": "Communications Technology/Technician.",
+    "earningsSampleSize": 162,
+    "medianEarnings": 27600,
+    "debtSampleSize": 99,
+    "medianDebt": 10750
+  },
+  {
+    "cipCode": "4001",
+    "name": "Physical Sciences.",
+    "earningsSampleSize": 162,
+    "medianEarnings": 28800,
+    "debtSampleSize": 313,
+    "medianDebt": 25869
+  },
+  {
+    "cipCode": "1439",
+    "name": "Geological/Geophysical Engineering.",
+    "earningsSampleSize": 162,
+    "medianEarnings": 70100,
+    "debtSampleSize": 154,
+    "medianDebt": 26305
+  },
+  {
+    "cipCode": "0405",
+    "name": "Interior Architecture.",
+    "earningsSampleSize": 174,
+    "medianEarnings": 40200,
+    "debtSampleSize": 169,
+    "medianDebt": 26710
+  },
+  {
+    "cipCode": "3018",
+    "name": "Natural Sciences.",
+    "earningsSampleSize": 174,
+    "medianEarnings": 31400,
+    "debtSampleSize": 259,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "4499",
+    "name": "Public Administration and Social Service Professions, Other.",
+    "earningsSampleSize": 174,
+    "medianEarnings": 41800,
+    "debtSampleSize": 269,
+    "medianDebt": 28882
+  },
+  {
+    "cipCode": "3011",
+    "name": "Gerontology.",
+    "earningsSampleSize": 191,
+    "medianEarnings": 47500,
+    "debtSampleSize": 241,
+    "medianDebt": 30750
+  },
+  {
+    "cipCode": "1501",
+    "name": "Architectural Engineering Technologies/Technicians.",
+    "earningsSampleSize": 194,
+    "medianEarnings": 60700,
+    "debtSampleSize": 292,
+    "medianDebt": 26737
+  },
+  {
+    "cipCode": "0108",
+    "name": "Agricultural Public Services.",
+    "earningsSampleSize": 196,
+    "medianEarnings": 37300,
+    "debtSampleSize": 191,
+    "medianDebt": 19500
+  },
+  {
+    "cipCode": "2608",
+    "name": "Genetics.",
+    "earningsSampleSize": 210,
+    "medianEarnings": 33400,
+    "debtSampleSize": 308,
+    "medianDebt": 24250
+  },
+  {
+    "cipCode": "1421",
+    "name": "Mining and Mineral Engineering.",
+    "earningsSampleSize": 216,
+    "medianEarnings": 69800,
+    "debtSampleSize": 210,
+    "medianDebt": 27125
+  },
+  {
+    "cipCode": "3014",
+    "name": "Museology/Museum Studies.",
+    "earningsSampleSize": 219,
+    "medianEarnings": 41200,
+    "debtSampleSize": 271,
+    "medianDebt": 52703
+  },
+  {
+    "cipCode": "0910",
+    "name": "Publishing.",
+    "earningsSampleSize": 225,
+    "medianEarnings": 43000,
+    "debtSampleSize": 178,
+    "medianDebt": 108434
+  },
+  {
+    "cipCode": "0105",
+    "name": "Agricultural and Domestic Animal Services.",
+    "earningsSampleSize": 226,
+    "medianEarnings": 23000,
+    "debtSampleSize": 286,
+    "medianDebt": 25830
+  },
+  {
+    "cipCode": "0303",
+    "name": "Fishing and Fisheries Sciences and Management.",
+    "earningsSampleSize": 231,
+    "medianEarnings": 26700,
+    "debtSampleSize": 329,
+    "medianDebt": 25111
+  },
+  {
+    "cipCode": "1436",
+    "name": "Manufacturing Engineering.",
+    "earningsSampleSize": 234,
+    "medianEarnings": 64100,
+    "debtSampleSize": 231,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "1433",
+    "name": "Construction Engineering.",
+    "earningsSampleSize": 239,
+    "medianEarnings": 65900,
+    "debtSampleSize": 248,
+    "medianDebt": 31000
+  },
+  {
+    "cipCode": "0199",
+    "name": "Agriculture, Agriculture Operations, and Related Sciences, Other.",
+    "earningsSampleSize": 240,
+    "medianEarnings": 59600,
+    "debtSampleSize": 300,
+    "medianDebt": 25500
+  },
+  {
+    "cipCode": "5127",
+    "name": "Medical Illustration and Informatics.",
+    "earningsSampleSize": 249,
+    "medianEarnings": 79600,
+    "debtSampleSize": 280,
+    "medianDebt": 34612
+  },
+  {
+    "cipCode": "3006",
+    "name": "Systems Science and Theory.",
+    "earningsSampleSize": 251,
+    "medianEarnings": 81400,
+    "debtSampleSize": 234,
+    "medianDebt": 30692
+  },
+  {
+    "cipCode": "1423",
+    "name": "Nuclear Engineering.",
+    "earningsSampleSize": 253,
+    "medianEarnings": 63000,
+    "debtSampleSize": 359,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "1502",
+    "name": "Civil Engineering Technologies/Technicians.",
+    "earningsSampleSize": 261,
+    "medianEarnings": 55600,
+    "debtSampleSize": 309,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "0409",
+    "name": "Architectural Sciences and Technology.",
+    "earningsSampleSize": 261,
+    "medianEarnings": 46300,
+    "debtSampleSize": 298,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3999",
+    "name": "Theology and Religious Vocations, Other.",
+    "earningsSampleSize": 267,
+    "medianEarnings": 41600,
+    "debtSampleSize": 369,
+    "medianDebt": 41000
+  },
+  {
+    "cipCode": "3033",
+    "name": "Sustainability Studies.",
+    "earningsSampleSize": 272,
+    "medianEarnings": 49600,
+    "debtSampleSize": 318,
+    "medianDebt": 40079
+  },
+  {
+    "cipCode": "1616",
+    "name": "American Sign Language.",
+    "earningsSampleSize": 275,
+    "medianEarnings": 30600,
+    "debtSampleSize": 324,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "2314",
+    "name": "Literature.",
+    "earningsSampleSize": 288,
+    "medianEarnings": 30300,
+    "debtSampleSize": 490,
+    "medianDebt": 24407
+  },
+  {
+    "cipCode": "1509",
+    "name": "Mining and Petroleum Technologies/Technicians.",
+    "earningsSampleSize": 291,
+    "medianEarnings": 48900,
+    "debtSampleSize": 323,
+    "medianDebt": 16896
+  },
+  {
+    "cipCode": "3027",
+    "name": "Human Biology.",
+    "earningsSampleSize": 294,
+    "medianEarnings": 30100,
+    "debtSampleSize": 493,
+    "medianDebt": 19683
+  },
+  {
+    "cipCode": "3904",
+    "name": "Religious Education.",
+    "earningsSampleSize": 298,
+    "medianEarnings": 34000,
+    "debtSampleSize": 377,
+    "medianDebt": 30130
+  },
+  {
+    "cipCode": "2299",
+    "name": "Legal Professions and Studies, Other.",
+    "earningsSampleSize": 308,
+    "medianEarnings": 57200,
+    "debtSampleSize": 427,
+    "medianDebt": 29719
+  },
+  {
+    "cipCode": "1902",
+    "name": "Family and Consumer Sciences/Human Sciences Business Services.",
+    "earningsSampleSize": 308,
+    "medianEarnings": 39700,
+    "debtSampleSize": 284,
+    "medianDebt": 25875
+  },
+  {
+    "cipCode": "0102",
+    "name": "Agricultural Mechanization.",
+    "earningsSampleSize": 312,
+    "medianEarnings": 52100,
+    "debtSampleSize": 398,
+    "medianDebt": 21375
+  },
+  {
+    "cipCode": "1422",
+    "name": "Naval Architecture and Marine Engineering.",
+    "earningsSampleSize": 318,
+    "medianEarnings": 92700,
+    "debtSampleSize": 401,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "0106",
+    "name": "Applied Horticulture and Horticultural Business Services.",
+    "earningsSampleSize": 323,
+    "medianEarnings": 34000,
+    "debtSampleSize": 379,
+    "medianDebt": 21272
+  },
+  {
+    "cipCode": "1199",
+    "name": "Computer and Information Sciences and Support Services, Other.",
+    "earningsSampleSize": 339,
+    "medianEarnings": 55600,
+    "debtSampleSize": 318,
+    "medianDebt": 28396
+  },
+  {
+    "cipCode": "4903",
+    "name": "Marine Transportation.",
+    "earningsSampleSize": 341,
+    "medianEarnings": 81500,
+    "debtSampleSize": 531,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3015",
+    "name": "Science, Technology and Society.",
+    "earningsSampleSize": 345,
+    "medianEarnings": 61300,
+    "debtSampleSize": 459,
+    "medianDebt": 23906
+  },
+  {
+    "cipCode": "3017",
+    "name": "Behavioral Sciences.",
+    "earningsSampleSize": 369,
+    "medianEarnings": 32400,
+    "debtSampleSize": 657,
+    "medianDebt": 25575
+  },
+  {
+    "cipCode": "1103",
+    "name": "Data Processing.",
+    "earningsSampleSize": 376,
+    "medianEarnings": 31700,
+    "debtSampleSize": 485,
+    "medianDebt": 14445
+  },
+  {
+    "cipCode": "5121",
+    "name": "Podiatric Medicine/Podiatry.",
+    "earningsSampleSize": 401,
+    "medianEarnings": 54000,
+    "debtSampleSize": 379,
+    "medianDebt": 242487
+  },
+  {
+    "cipCode": "5105",
+    "name": "Advanced/Graduate Dentistry and Oral Sciences.",
+    "earningsSampleSize": 402,
+    "medianEarnings": 179300,
+    "debtSampleSize": 393,
+    "medianDebt": 199097
+  },
+  {
+    "cipCode": "5099",
+    "name": "Visual and Performing Arts, Other.",
+    "earningsSampleSize": 405,
+    "medianEarnings": 41100,
+    "debtSampleSize": 411,
+    "medianDebt": 95150
+  },
+  {
+    "cipCode": "0406",
+    "name": "Landscape Architecture.",
+    "earningsSampleSize": 415,
+    "medianEarnings": 45100,
+    "debtSampleSize": 425,
+    "medianDebt": 27625
+  },
+  {
+    "cipCode": "3025",
+    "name": "Cognitive Science.",
+    "earningsSampleSize": 424,
+    "medianEarnings": 43000,
+    "debtSampleSize": 662,
+    "medianDebt": 19923
+  },
+  {
+    "cipCode": "2612",
+    "name": "Biotechnology.",
+    "earningsSampleSize": 442,
+    "medianEarnings": 72900,
+    "debtSampleSize": 680,
+    "medianDebt": 41000
+  },
+  {
+    "cipCode": "1603",
+    "name": "East Asian Languages, Literatures, and Linguistics.",
+    "earningsSampleSize": 445,
+    "medianEarnings": 27400,
+    "debtSampleSize": 566,
+    "medianDebt": 21217
+  },
+  {
+    "cipCode": "1404",
+    "name": "Architectural Engineering.",
+    "earningsSampleSize": 488,
+    "medianEarnings": 65200,
+    "debtSampleSize": 547,
+    "medianDebt": 27284
+  },
+  {
+    "cipCode": "5133",
+    "name": "Alternative and Complementary Medicine and Medical Systems.",
+    "earningsSampleSize": 489,
+    "medianEarnings": 24900,
+    "debtSampleSize": 731,
+    "medianDebt": 118582
+  },
+  {
+    "cipCode": "4512",
+    "name": "Urban Studies/Affairs.",
+    "earningsSampleSize": 493,
+    "medianEarnings": 36400,
+    "debtSampleSize": 530,
+    "medianDebt": 24625
+  },
+  {
+    "cipCode": "1105",
+    "name": "Computer Systems Analysis.",
+    "earningsSampleSize": 497,
+    "medianEarnings": 58900,
+    "debtSampleSize": 520,
+    "medianDebt": 22950
+  },
+  {
+    "cipCode": "3005",
+    "name": "Peace Studies and Conflict Resolution.",
+    "earningsSampleSize": 509,
+    "medianEarnings": 43300,
+    "debtSampleSize": 645,
+    "medianDebt": 43333
+  },
+  {
+    "cipCode": "1599",
+    "name": "Engineering Technologies/Technicians, Other.",
+    "earningsSampleSize": 512,
+    "medianEarnings": 55900,
+    "debtSampleSize": 567,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "4701",
+    "name": "Electrical/Electronics Maintenance and Repair Technology.",
+    "earningsSampleSize": 562,
+    "medianEarnings": 43200,
+    "debtSampleSize": 479,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "4299",
+    "name": "Psychology, Other.",
+    "earningsSampleSize": 584,
+    "medianEarnings": 47300,
+    "debtSampleSize": 824,
+    "medianDebt": 62600
+  },
+  {
+    "cipCode": "3907",
+    "name": "Pastoral Counseling and Specialized Ministries.",
+    "earningsSampleSize": 592,
+    "medianEarnings": 31500,
+    "debtSampleSize": 823,
+    "medianDebt": 28000
+  },
+  {
+    "cipCode": "5215",
+    "name": "Real Estate.",
+    "earningsSampleSize": 600,
+    "medianEarnings": 68100,
+    "debtSampleSize": 619,
+    "medianDebt": 26750
+  },
+  {
+    "cipCode": "1403",
+    "name": "Agricultural Engineering.",
+    "earningsSampleSize": 601,
+    "medianEarnings": 56700,
+    "debtSampleSize": 761,
+    "medianDebt": 22340
+  },
+  {
+    "cipCode": "1418",
+    "name": "Materials Engineering",
+    "earningsSampleSize": 615,
+    "medianEarnings": 63300,
+    "debtSampleSize": 758,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "4103",
+    "name": "Physical Science Technologies/Technicians.",
+    "earningsSampleSize": 617,
+    "medianEarnings": 58000,
+    "debtSampleSize": 465,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "1499",
+    "name": "Engineering, Other.",
+    "earningsSampleSize": 630,
+    "medianEarnings": 65000,
+    "debtSampleSize": 637,
+    "medianDebt": 26853
+  },
+  {
+    "cipCode": "1512",
+    "name": "Computer Engineering Technologies/Technicians.",
+    "earningsSampleSize": 640,
+    "medianEarnings": 40100,
+    "debtSampleSize": 709,
+    "medianDebt": 19998
+  },
+  {
+    "cipCode": "1513",
+    "name": "Drafting/Design Engineering Technologies/Technicians.",
+    "earningsSampleSize": 640,
+    "medianEarnings": 42100,
+    "debtSampleSize": 631,
+    "medianDebt": 18499
+  },
+  {
+    "cipCode": "0103",
+    "name": "Agricultural Production Operations.",
+    "earningsSampleSize": 644,
+    "medianEarnings": 28800,
+    "debtSampleSize": 722,
+    "medianDebt": 20000
+  },
+  {
+    "cipCode": "4703",
+    "name": "Heavy/Industrial Equipment Maintenance Technologies.",
+    "earningsSampleSize": 674,
+    "medianEarnings": 42900,
+    "debtSampleSize": 688,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "4399",
+    "name": "Homeland Security, Law Enforcement, Firefighting and Related Protective Services, Other.",
+    "earningsSampleSize": 684,
+    "medianEarnings": 44400,
+    "debtSampleSize": 767,
+    "medianDebt": 28332
+  },
+  {
+    "cipCode": "1414",
+    "name": "Environmental/Environmental Health Engineering.",
+    "earningsSampleSize": 694,
+    "medianEarnings": 54200,
+    "debtSampleSize": 787,
+    "medianDebt": 25098
+  },
+  {
+    "cipCode": "0110",
+    "name": "Food Science and Technology.",
+    "earningsSampleSize": 731,
+    "medianEarnings": 39600,
+    "debtSampleSize": 938,
+    "medianDebt": 23000
+  },
+  {
+    "cipCode": "1203",
+    "name": "Funeral Service and Mortuary Science.",
+    "earningsSampleSize": 739,
+    "medianEarnings": 34600,
+    "debtSampleSize": 843,
+    "medianDebt": 16063
+  },
+  {
+    "cipCode": "5216",
+    "name": "Taxation.",
+    "earningsSampleSize": 740,
+    "medianEarnings": 71800,
+    "debtSampleSize": 628,
+    "medianDebt": 31552
+  },
+  {
+    "cipCode": "0305",
+    "name": "Forestry.",
+    "earningsSampleSize": 762,
+    "medianEarnings": 35700,
+    "debtSampleSize": 868,
+    "medianDebt": 22500
+  },
+  {
+    "cipCode": "4199",
+    "name": "Science Technologies/Technicians, Other.",
+    "earningsSampleSize": 779,
+    "medianEarnings": 50600,
+    "debtSampleSize": 1100,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "2705",
+    "name": "Statistics.",
+    "earningsSampleSize": 791,
+    "medianEarnings": 52600,
+    "debtSampleSize": 945,
+    "medianDebt": 20525
+  },
+  {
+    "cipCode": "1314",
+    "name": "Teaching English or French as a Second or Foreign Language.",
+    "earningsSampleSize": 838,
+    "medianEarnings": 53500,
+    "debtSampleSize": 967,
+    "medianDebt": 24689
+  },
+  {
+    "cipCode": "5217",
+    "name": "Insurance.",
+    "earningsSampleSize": 843,
+    "medianEarnings": 56600,
+    "debtSampleSize": 1002,
+    "medianDebt": 23500
+  },
+  {
+    "cipCode": "5135",
+    "name": "Somatic Bodywork and Related Therapeutic Services.",
+    "earningsSampleSize": 847,
+    "medianEarnings": 20700,
+    "debtSampleSize": 885,
+    "medianDebt": 10768
+  },
+  {
+    "cipCode": "2703",
+    "name": "Applied Mathematics.",
+    "earningsSampleSize": 862,
+    "medianEarnings": 53700,
+    "debtSampleSize": 1159,
+    "medianDebt": 19500
+  },
+  {
+    "cipCode": "1002",
+    "name": "Audiovisual Communications Technologies/Technicians.",
+    "earningsSampleSize": 870,
+    "medianEarnings": 23000,
+    "debtSampleSize": 939,
+    "medianDebt": 25500
+  },
+  {
+    "cipCode": "5003",
+    "name": "Dance.",
+    "earningsSampleSize": 910,
+    "medianEarnings": 19700,
+    "debtSampleSize": 936,
+    "medianDebt": 26470
+  },
+  {
+    "cipCode": "4008",
+    "name": "Physics.",
+    "earningsSampleSize": 925,
+    "medianEarnings": 38600,
+    "debtSampleSize": 1352,
+    "medianDebt": 20500
+  },
+  {
+    "cipCode": "4303",
+    "name": "Homeland Security.",
+    "earningsSampleSize": 941,
+    "medianEarnings": 41500,
+    "debtSampleSize": 1332,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "1505",
+    "name": "Environmental Control Technologies/Technicians.",
+    "earningsSampleSize": 989,
+    "medianEarnings": 36500,
+    "debtSampleSize": 923,
+    "medianDebt": 14550
+  },
+  {
+    "cipCode": "1427",
+    "name": "Systems Engineering.",
+    "earningsSampleSize": 1014,
+    "medianEarnings": 94700,
+    "debtSampleSize": 579,
+    "medianDebt": 24500
+  },
+  {
+    "cipCode": "2699",
+    "name": "Biological and Biomedical Sciences, Other.",
+    "earningsSampleSize": 1015,
+    "medianEarnings": 31200,
+    "debtSampleSize": 2644,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3802",
+    "name": "Religion/Religious Studies.",
+    "earningsSampleSize": 1049,
+    "medianEarnings": 36300,
+    "debtSampleSize": 1775,
+    "medianDebt": 50000
+  },
+  {
+    "cipCode": "2605",
+    "name": "Microbiological Sciences and Immunology.",
+    "earningsSampleSize": 1061,
+    "medianEarnings": 33400,
+    "debtSampleSize": 1766,
+    "medianDebt": 21837
+  },
+  {
+    "cipCode": "2200",
+    "name": "Non-Professional General Legal Studies (Undergraduate).",
+    "earningsSampleSize": 1092,
+    "medianEarnings": 36700,
+    "debtSampleSize": 1780,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "0302",
+    "name": "Natural Resources Management and Policy.",
+    "earningsSampleSize": 1100,
+    "medianEarnings": 33700,
+    "debtSampleSize": 1405,
+    "medianDebt": 24812
+  },
+  {
+    "cipCode": "1102",
+    "name": "Computer Programming.",
+    "earningsSampleSize": 1104,
+    "medianEarnings": 43600,
+    "debtSampleSize": 1350,
+    "medianDebt": 18000
+  },
+  {
+    "cipCode": "5205",
+    "name": "Business/Corporate Communications.",
+    "earningsSampleSize": 1114,
+    "medianEarnings": 37300,
+    "debtSampleSize": 1137,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "1507",
+    "name": "Quality Control and Safety Technologies/Technicians.",
+    "earningsSampleSize": 1128,
+    "medianEarnings": 57200,
+    "debtSampleSize": 1477,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "4402",
+    "name": "Community Organization and Advocacy.",
+    "earningsSampleSize": 1165,
+    "medianEarnings": 35300,
+    "debtSampleSize": 2153,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "5207",
+    "name": "Entrepreneurial and Small Business Operations.",
+    "earningsSampleSize": 1203,
+    "medianEarnings": 42800,
+    "debtSampleSize": 1347,
+    "medianDebt": 24600
+  },
+  {
+    "cipCode": "1108",
+    "name": "Computer Software and Media Applications.",
+    "earningsSampleSize": 1208,
+    "medianEarnings": 37000,
+    "debtSampleSize": 1591,
+    "medianDebt": 24236
+  },
+  {
+    "cipCode": "0306",
+    "name": "Wildlife and Wildlands Science and Management.",
+    "earningsSampleSize": 1228,
+    "medianEarnings": 24000,
+    "debtSampleSize": 1464,
+    "medianDebt": 23000
+  },
+  {
+    "cipCode": "3019",
+    "name": "Nutrition Sciences.",
+    "earningsSampleSize": 1248,
+    "medianEarnings": 28800,
+    "debtSampleSize": 2075,
+    "medianDebt": 22174
+  },
+  {
+    "cipCode": "0999",
+    "name": "Communication, Journalism, and Related Programs, Other.",
+    "earningsSampleSize": 1277,
+    "medianEarnings": 36900,
+    "debtSampleSize": 1594,
+    "medianDebt": 25468
+  },
+  {
+    "cipCode": "2604",
+    "name": "Cell/Cellular Biology and Anatomical Sciences.",
+    "earningsSampleSize": 1306,
+    "medianEarnings": 30600,
+    "debtSampleSize": 2403,
+    "medianDebt": 19602
+  },
+  {
+    "cipCode": "0100",
+    "name": "Agriculture, General.",
+    "earningsSampleSize": 1309,
+    "medianEarnings": 35500,
+    "debtSampleSize": 1582,
+    "medianDebt": 19500
+  },
+  {
+    "cipCode": "5220",
+    "name": "Construction Management.",
+    "earningsSampleSize": 1339,
+    "medianEarnings": 61700,
+    "debtSampleSize": 1558,
+    "medianDebt": 24694
+  },
+  {
+    "cipCode": "0111",
+    "name": "Plant Sciences.",
+    "earningsSampleSize": 1341,
+    "medianEarnings": 38500,
+    "debtSampleSize": 1411,
+    "medianDebt": 19750
+  },
+  {
+    "cipCode": "1515",
+    "name": "Engineering-Related Fields.",
+    "earningsSampleSize": 1398,
+    "medianEarnings": 63400,
+    "debtSampleSize": 1443,
+    "medianDebt": 25500
+  },
+  {
+    "cipCode": "3801",
+    "name": "Philosophy.",
+    "earningsSampleSize": 1415,
+    "medianEarnings": 30200,
+    "debtSampleSize": 2106,
+    "medianDebt": 20500
+  },
+  {
+    "cipCode": "1510",
+    "name": "Construction Engineering Technologies.",
+    "earningsSampleSize": 1417,
+    "medianEarnings": 64900,
+    "debtSampleSize": 1526,
+    "medianDebt": 22750
+  },
+  {
+    "cipCode": "4599",
+    "name": "Social Sciences, Other.",
+    "earningsSampleSize": 1428,
+    "medianEarnings": 33400,
+    "debtSampleSize": 1618,
+    "medianDebt": 21118
+  },
+  {
+    "cipCode": "2202",
+    "name": "Legal Research and Advanced Professional Studies.",
+    "earningsSampleSize": 1489,
+    "medianEarnings": 73500,
+    "debtSampleSize": 1817,
+    "medianDebt": 54664
+  },
+  {
+    "cipCode": "2607",
+    "name": "Zoology/Animal Biology.",
+    "earningsSampleSize": 1507,
+    "medianEarnings": 23400,
+    "debtSampleSize": 2157,
+    "medianDebt": 22500
+  },
+  {
+    "cipCode": "1425",
+    "name": "Petroleum Engineering.",
+    "earningsSampleSize": 1529,
+    "medianEarnings": 68800,
+    "debtSampleSize": 1778,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "0403",
+    "name": "City/Urban, Community and Regional Planning.",
+    "earningsSampleSize": 1546,
+    "medianEarnings": 49900,
+    "debtSampleSize": 1647,
+    "medianDebt": 40807
+  },
+  {
+    "cipCode": "1500",
+    "name": "Engineering Technology, General.",
+    "earningsSampleSize": 1561,
+    "medianEarnings": 55800,
+    "debtSampleSize": 1712,
+    "medianDebt": 23976
+  },
+  {
+    "cipCode": "1503",
+    "name": "Electrical Engineering Technologies/Technicians.",
+    "earningsSampleSize": 1588,
+    "medianEarnings": 47700,
+    "debtSampleSize": 1681,
+    "medianDebt": 17067
+  },
+  {
+    "cipCode": "1904",
+    "name": "Family and Consumer Economics and Related Studies.",
+    "earningsSampleSize": 1598,
+    "medianEarnings": 33400,
+    "debtSampleSize": 2578,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "5218",
+    "name": "General Sales, Merchandising and Related Marketing Operations.",
+    "earningsSampleSize": 1667,
+    "medianEarnings": 46300,
+    "debtSampleSize": 1630,
+    "medianDebt": 22187
+  },
+  {
+    "cipCode": "5001",
+    "name": "Visual and Performing Arts, General.",
+    "earningsSampleSize": 1708,
+    "medianEarnings": 26400,
+    "debtSampleSize": 1968,
+    "medianDebt": 23625
+  },
+  {
+    "cipCode": "5117",
+    "name": "Optometry.",
+    "earningsSampleSize": 1715,
+    "medianEarnings": 89100,
+    "debtSampleSize": 1847,
+    "medianDebt": 183698
+  },
+  {
+    "cipCode": "1003",
+    "name": "Graphic Communications.",
+    "earningsSampleSize": 1720,
+    "medianEarnings": 29800,
+    "debtSampleSize": 2228,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "3902",
+    "name": "Bible/Biblical Studies.",
+    "earningsSampleSize": 1751,
+    "medianEarnings": 25800,
+    "debtSampleSize": 2429,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "5101",
+    "name": "Chiropractic.",
+    "earningsSampleSize": 1860,
+    "medianEarnings": 39100,
+    "debtSampleSize": 2813,
+    "medianDebt": 184845
+  },
+  {
+    "cipCode": "1504",
+    "name": "Electromechanical Instrumentation and Maintenance Technologies/Technicians.",
+    "earningsSampleSize": 1894,
+    "medianEarnings": 53000,
+    "debtSampleSize": 2014,
+    "medianDebt": 17500
+  },
+  {
+    "cipCode": "2615",
+    "name": "Neurobiology and Neurosciences.",
+    "earningsSampleSize": 1966,
+    "medianEarnings": 31000,
+    "debtSampleSize": 4017,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "3101",
+    "name": "Parks, Recreation and Leisure Studies.",
+    "earningsSampleSize": 1970,
+    "medianEarnings": 31800,
+    "debtSampleSize": 2466,
+    "medianDebt": 22317
+  },
+  {
+    "cipCode": "2609",
+    "name": "Physiology, Pathology and Related Sciences.",
+    "earningsSampleSize": 2005,
+    "medianEarnings": 26300,
+    "debtSampleSize": 4019,
+    "medianDebt": 24978
+  },
+  {
+    "cipCode": "1909",
+    "name": "Apparel and Textiles.",
+    "earningsSampleSize": 2013,
+    "medianEarnings": 35200,
+    "debtSampleSize": 2291,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "1305",
+    "name": "Educational/Instructional Media Design.",
+    "earningsSampleSize": 2021,
+    "medianEarnings": 52400,
+    "debtSampleSize": 2166,
+    "medianDebt": 25876
+  },
+  {
+    "cipCode": "1401",
+    "name": "Engineering, General.",
+    "earningsSampleSize": 2033,
+    "medianEarnings": 64400,
+    "debtSampleSize": 2458,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "1601",
+    "name": "Linguistic, Comparative, and Related Language Studies and Services.",
+    "earningsSampleSize": 2068,
+    "medianEarnings": 25700,
+    "debtSampleSize": 2883,
+    "medianDebt": 20000
+  },
+  {
+    "cipCode": "0502",
+    "name": "Ethnic, Cultural Minority, Gender, and Group Studies.",
+    "earningsSampleSize": 2073,
+    "medianEarnings": 29200,
+    "debtSampleSize": 2924,
+    "medianDebt": 19000
+  },
+  {
+    "cipCode": "5111",
+    "name": "Health/Medical Preparatory Programs.",
+    "earningsSampleSize": 2170,
+    "medianEarnings": 29200,
+    "debtSampleSize": 4813,
+    "medianDebt": 22460
+  },
+  {
+    "cipCode": "4302",
+    "name": "Fire Protection.",
+    "earningsSampleSize": 2184,
+    "medianEarnings": 49800,
+    "debtSampleSize": 2298,
+    "medianDebt": 37499
+  },
+  {
+    "cipCode": "1508",
+    "name": "Mechanical Engineering Related Technologies/Technicians.",
+    "earningsSampleSize": 2207,
+    "medianEarnings": 55600,
+    "debtSampleSize": 2553,
+    "medianDebt": 24715
+  },
+  {
+    "cipCode": "5010",
+    "name": "Arts, Entertainment,and Media Management.",
+    "earningsSampleSize": 2231,
+    "medianEarnings": 29700,
+    "debtSampleSize": 2458,
+    "medianDebt": 24646
+  },
+  {
+    "cipCode": "0501",
+    "name": "Area Studies.",
+    "earningsSampleSize": 2308,
+    "medianEarnings": 32300,
+    "debtSampleSize": 2904,
+    "medianDebt": 19000
+  },
+  {
+    "cipCode": "3000",
+    "name": "Multi-/Interdisciplinary Studies, General.",
+    "earningsSampleSize": 2316,
+    "medianEarnings": 31800,
+    "debtSampleSize": 3868,
+    "medianDebt": 22220
+  },
+  {
+    "cipCode": "1204",
+    "name": "Cosmetology and Related Personal Grooming Services.",
+    "earningsSampleSize": 2348,
+    "medianEarnings": 15200,
+    "debtSampleSize": 2600,
+    "medianDebt": 8850
+  },
+  {
+    "cipCode": "1109",
+    "name": "Computer Systems Networking and Telecommunications.",
+    "earningsSampleSize": 2352,
+    "medianEarnings": 40400,
+    "debtSampleSize": 2661,
+    "medianDebt": 20000
+  },
+  {
+    "cipCode": "1399",
+    "name": "Education, Other.",
+    "earningsSampleSize": 2489,
+    "medianEarnings": 42600,
+    "debtSampleSize": 3124,
+    "medianDebt": 24141
+  },
+  {
+    "cipCode": "2613",
+    "name": "Ecology, Evolution, Systematics, and Population Biology.",
+    "earningsSampleSize": 2499,
+    "medianEarnings": 25000,
+    "debtSampleSize": 3308,
+    "medianDebt": 24500
+  },
+  {
+    "cipCode": "4507",
+    "name": "Geography and Cartography.",
+    "earningsSampleSize": 2503,
+    "medianEarnings": 33000,
+    "debtSampleSize": 3060,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "4603",
+    "name": "Electrical and Power Transmission Installers.",
+    "earningsSampleSize": 2588,
+    "medianEarnings": 41200,
+    "debtSampleSize": 2511,
+    "medianDebt": 9500
+  },
+  {
+    "cipCode": "4006",
+    "name": "Geological and Earth Sciences/Geosciences.",
+    "earningsSampleSize": 2617,
+    "medianEarnings": 33600,
+    "debtSampleSize": 3185,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "4405",
+    "name": "Public Policy Analysis.",
+    "earningsSampleSize": 2633,
+    "medianEarnings": 59300,
+    "debtSampleSize": 2731,
+    "medianDebt": 40252
+  },
+  {
+    "cipCode": "5204",
+    "name": "Business Operations Support and Assistant Services.",
+    "earningsSampleSize": 2667,
+    "medianEarnings": 19700,
+    "debtSampleSize": 2300,
+    "medianDebt": 12539
+  },
+  {
+    "cipCode": "1506",
+    "name": "Industrial Production Technologies/Technicians.",
+    "earningsSampleSize": 2825,
+    "medianEarnings": 47500,
+    "debtSampleSize": 3053,
+    "medianDebt": 20438
+  },
+  {
+    "cipCode": "5110",
+    "name": "Clinical/Medical Laboratory Science/Research and Allied Professions.",
+    "earningsSampleSize": 2938,
+    "medianEarnings": 51100,
+    "debtSampleSize": 3670,
+    "medianDebt": 20603
+  },
+  {
+    "cipCode": "1405",
+    "name": "Biomedical/Medical Engineering.",
+    "earningsSampleSize": 2975,
+    "medianEarnings": 59400,
+    "debtSampleSize": 4286,
+    "medianDebt": 22517
+  },
+  {
+    "cipCode": "5211",
+    "name": "International Business.",
+    "earningsSampleSize": 3002,
+    "medianEarnings": 44300,
+    "debtSampleSize": 3517,
+    "medianDebt": 24562
+  },
+  {
+    "cipCode": "3020",
+    "name": "International/Global Studies.",
+    "earningsSampleSize": 3146,
+    "medianEarnings": 32200,
+    "debtSampleSize": 4307,
+    "medianDebt": 20028
+  },
+  {
+    "cipCode": "5206",
+    "name": "Business/Managerial Economics.",
+    "earningsSampleSize": 3152,
+    "medianEarnings": 45000,
+    "debtSampleSize": 3855,
+    "medianDebt": 19550
+  },
+  {
+    "cipCode": "2602",
+    "name": "Biochemistry, Biophysics and Molecular Biology.",
+    "earningsSampleSize": 3155,
+    "medianEarnings": 32900,
+    "debtSampleSize": 5444,
+    "medianDebt": 19500
+  },
+  {
+    "cipCode": "5219",
+    "name": "Specialized Sales, Merchandising and  Marketing Operations.",
+    "earningsSampleSize": 3155,
+    "medianEarnings": 36000,
+    "debtSampleSize": 3750,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "5199",
+    "name": "Health Professions and Related Clinical Sciences, Other.",
+    "earningsSampleSize": 3170,
+    "medianEarnings": 36000,
+    "debtSampleSize": 4736,
+    "medianDebt": 24250
+  },
+  {
+    "cipCode": "4902",
+    "name": "Ground Transportation.",
+    "earningsSampleSize": 3208,
+    "medianEarnings": 27900,
+    "debtSampleSize": 2362,
+    "medianDebt": 6650
+  },
+  {
+    "cipCode": "5124",
+    "name": "Veterinary Medicine.",
+    "earningsSampleSize": 3278,
+    "medianEarnings": 72900,
+    "debtSampleSize": 3534,
+    "medianDebt": 162822
+  },
+  {
+    "cipCode": "1402",
+    "name": "Aerospace, Aeronautical and Astronautical Engineering.",
+    "earningsSampleSize": 3305,
+    "medianEarnings": 62500,
+    "debtSampleSize": 4503,
+    "medianDebt": 26984
+  },
+  {
+    "cipCode": "1901",
+    "name": "Family and Consumer Sciences/Human Sciences, General.",
+    "earningsSampleSize": 3325,
+    "medianEarnings": 29200,
+    "debtSampleSize": 4299,
+    "medianDebt": 24524
+  },
+  {
+    "cipCode": "4702",
+    "name": "Heating, Air Conditioning, Ventilation and Refrigeration Maintenance Technology/Technician (HAC, HACR, HVAC, HVACR).",
+    "earningsSampleSize": 3390,
+    "medianEarnings": 30900,
+    "debtSampleSize": 3723,
+    "medianDebt": 9500
+  },
+  {
+    "cipCode": "4227",
+    "name": "Research and Experimental Psychology.",
+    "earningsSampleSize": 3398,
+    "medianEarnings": 30000,
+    "debtSampleSize": 5973,
+    "medianDebt": 19000
+  },
+  {
+    "cipCode": "1435",
+    "name": "Industrial Engineering.",
+    "earningsSampleSize": 3419,
+    "medianEarnings": 67200,
+    "debtSampleSize": 3720,
+    "medianDebt": 24000
+  },
+  {
+    "cipCode": "0101",
+    "name": "Agricultural Business and Management.",
+    "earningsSampleSize": 3589,
+    "medianEarnings": 42700,
+    "debtSampleSize": 3925,
+    "medianDebt": 17750
+  },
+  {
+    "cipCode": "3001",
+    "name": "Biological and Physical Sciences.",
+    "earningsSampleSize": 3600,
+    "medianEarnings": 30600,
+    "debtSampleSize": 5714,
+    "medianDebt": 25397
+  },
+  {
+    "cipCode": "5299",
+    "name": "Business, Management, Marketing, and Related Support Services, Other.",
+    "earningsSampleSize": 3778,
+    "medianEarnings": 42900,
+    "debtSampleSize": 5239,
+    "medianDebt": 19750
+  },
+  {
+    "cipCode": "1110",
+    "name": "Computer/Information Technology Administration and Management.",
+    "earningsSampleSize": 3796,
+    "medianEarnings": 49800,
+    "debtSampleSize": 4731,
+    "medianDebt": 26000
+  },
+  {
+    "cipCode": "3103",
+    "name": "Parks, Recreation and Leisure Facilities Management.",
+    "earningsSampleSize": 3802,
+    "medianEarnings": 31600,
+    "debtSampleSize": 4777,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "2203",
+    "name": "Legal Support Services.",
+    "earningsSampleSize": 3812,
+    "medianEarnings": 29100,
+    "debtSampleSize": 4942,
+    "medianDebt": 27178
+  },
+  {
+    "cipCode": "5131",
+    "name": "Dietetics and Clinical Nutrition Services.",
+    "earningsSampleSize": 3959,
+    "medianEarnings": 28900,
+    "debtSampleSize": 5656,
+    "medianDebt": 33332
+  },
+  {
+    "cipCode": "4005",
+    "name": "Chemistry.",
+    "earningsSampleSize": 4075,
+    "medianEarnings": 36400,
+    "debtSampleSize": 6503,
+    "medianDebt": 22440
+  },
+  {
+    "cipCode": "0109",
+    "name": "Animal Sciences.",
+    "earningsSampleSize": 4177,
+    "medianEarnings": 30300,
+    "debtSampleSize": 6335,
+    "medianDebt": 20685
+  },
+  {
+    "cipCode": "4604",
+    "name": "Building/Construction Finishing, Management, and Inspection.",
+    "earningsSampleSize": 4577,
+    "medianEarnings": 20900,
+    "debtSampleSize": 3829,
+    "medianDebt": 6051
+  },
+  {
+    "cipCode": "2501",
+    "name": "Library Science and Administration.",
+    "earningsSampleSize": 4592,
+    "medianEarnings": 41200,
+    "debtSampleSize": 5016,
+    "medianDebt": 34500
+  },
+  {
+    "cipCode": "4901",
+    "name": "Air Transportation.",
+    "earningsSampleSize": 4781,
+    "medianEarnings": 47900,
+    "debtSampleSize": 6045,
+    "medianDebt": 24813
+  },
+  {
+    "cipCode": "3906",
+    "name": "Theological and Ministerial Studies.",
+    "earningsSampleSize": 4867,
+    "medianEarnings": 42800,
+    "debtSampleSize": 6070,
+    "medianDebt": 41500
+  },
+  {
+    "cipCode": "4501",
+    "name": "Social Sciences, General.",
+    "earningsSampleSize": 5039,
+    "medianEarnings": 32100,
+    "debtSampleSize": 7874,
+    "medianDebt": 21875
+  },
+  {
+    "cipCode": "1409",
+    "name": "Computer Engineering.",
+    "earningsSampleSize": 5231,
+    "medianEarnings": 70900,
+    "debtSampleSize": 6250,
+    "medianDebt": 23828
+  },
+  {
+    "cipCode": "4502",
+    "name": "Anthropology.",
+    "earningsSampleSize": 5256,
+    "medianEarnings": 24100,
+    "debtSampleSize": 7155,
+    "medianDebt": 21000
+  },
+  {
+    "cipCode": "4400",
+    "name": "Human Services, General.",
+    "earningsSampleSize": 5374,
+    "medianEarnings": 28100,
+    "debtSampleSize": 10015,
+    "medianDebt": 28814
+  },
+  {
+    "cipCode": "1205",
+    "name": "Culinary Arts and Related Services.",
+    "earningsSampleSize": 5629,
+    "medianEarnings": 25900,
+    "debtSampleSize": 7509,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "1609",
+    "name": "Romance Languages, Literatures, and Linguistics.",
+    "earningsSampleSize": 5942,
+    "medianEarnings": 30100,
+    "debtSampleSize": 8029,
+    "medianDebt": 21437
+  },
+  {
+    "cipCode": "5104",
+    "name": "Dentistry.",
+    "earningsSampleSize": 6143,
+    "medianEarnings": 100700,
+    "debtSampleSize": 7644,
+    "medianDebt": 238253
+  },
+  {
+    "cipCode": "0402",
+    "name": "Architecture.",
+    "earningsSampleSize": 6507,
+    "medianEarnings": 48500,
+    "debtSampleSize": 7173,
+    "medianDebt": 31000
+  },
+  {
+    "cipCode": "2313",
+    "name": "Rhetoric and Composition/Writing Studies.",
+    "earningsSampleSize": 6937,
+    "medianEarnings": 32000,
+    "debtSampleSize": 8580,
+    "medianDebt": 24500
+  },
+  {
+    "cipCode": "5119",
+    "name": "Osteopathic Medicine/Osteopathy.",
+    "earningsSampleSize": 6971,
+    "medianEarnings": 53600,
+    "debtSampleSize": 7764,
+    "medianDebt": 261732
+  },
+  {
+    "cipCode": "2701",
+    "name": "Mathematics.",
+    "earningsSampleSize": 7004,
+    "medianEarnings": 44300,
+    "debtSampleSize": 9497,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "1407",
+    "name": "Chemical Engineering.",
+    "earningsSampleSize": 7072,
+    "medianEarnings": 66700,
+    "debtSampleSize": 9010,
+    "medianDebt": 23500
+  },
+  {
+    "cipCode": "5213",
+    "name": "Management Sciences and Quantitative Methods.",
+    "earningsSampleSize": 7234,
+    "medianEarnings": 58900,
+    "debtSampleSize": 7034,
+    "medianDebt": 24727
+  },
+  {
+    "cipCode": "5212",
+    "name": "Management Information Systems and Services.",
+    "earningsSampleSize": 7333,
+    "medianEarnings": 56000,
+    "debtSampleSize": 8192,
+    "medianDebt": 24000
+  },
+  {
+    "cipCode": "5115",
+    "name": "Mental and Social Health Services and Allied Professions.",
+    "earningsSampleSize": 7818,
+    "medianEarnings": 37600,
+    "debtSampleSize": 11052,
+    "medianDebt": 43800
+  },
+  {
+    "cipCode": "5006",
+    "name": "Film/Video and Photographic Arts.",
+    "earningsSampleSize": 7970,
+    "medianEarnings": 23000,
+    "debtSampleSize": 8929,
+    "medianDebt": 24500
+  },
+  {
+    "cipCode": "4504",
+    "name": "Criminology.",
+    "earningsSampleSize": 8159,
+    "medianEarnings": 31900,
+    "debtSampleSize": 10521,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "5009",
+    "name": "Music.",
+    "earningsSampleSize": 8265,
+    "medianEarnings": 23100,
+    "debtSampleSize": 10962,
+    "medianDebt": 26959
+  },
+  {
+    "cipCode": "4509",
+    "name": "International Relations and National Security Studies.",
+    "earningsSampleSize": 8268,
+    "medianEarnings": 39900,
+    "debtSampleSize": 10208,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "0907",
+    "name": "Radio, Television, and Digital Communication.",
+    "earningsSampleSize": 8315,
+    "medianEarnings": 28200,
+    "debtSampleSize": 9461,
+    "medianDebt": 23250
+  },
+  {
+    "cipCode": "1905",
+    "name": "Foods, Nutrition, and Related Services.",
+    "earningsSampleSize": 8728,
+    "medianEarnings": 31100,
+    "debtSampleSize": 12108,
+    "medianDebt": 26250
+  },
+  {
+    "cipCode": "5100",
+    "name": "Health Services/Allied Health/Health Sciences, General.",
+    "earningsSampleSize": 8754,
+    "medianEarnings": 33100,
+    "debtSampleSize": 15535,
+    "medianDebt": 22375
+  },
+  {
+    "cipCode": "5005",
+    "name": "Drama/Theatre Arts and Stagecraft.",
+    "earningsSampleSize": 8967,
+    "medianEarnings": 20700,
+    "debtSampleSize": 10262,
+    "medianDebt": 24557
+  },
+  {
+    "cipCode": "4706",
+    "name": "Vehicle Maintenance and Repair Technologies.",
+    "earningsSampleSize": 9022,
+    "medianEarnings": 35400,
+    "debtSampleSize": 9643,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "0301",
+    "name": "Natural Resources Conservation and Research.",
+    "earningsSampleSize": 9214,
+    "medianEarnings": 30300,
+    "debtSampleSize": 11268,
+    "medianDebt": 21283
+  },
+  {
+    "cipCode": "4805",
+    "name": "Precision Metal Working.",
+    "earningsSampleSize": 9330,
+    "medianEarnings": 32500,
+    "debtSampleSize": 8293,
+    "medianDebt": 6999
+  },
+  {
+    "cipCode": "1311",
+    "name": "Student Counseling and Personnel Services.",
+    "earningsSampleSize": 10233,
+    "medianEarnings": 42200,
+    "debtSampleSize": 11679,
+    "medianDebt": 41000
+  },
+  {
+    "cipCode": "4404",
+    "name": "Public Administration.",
+    "earningsSampleSize": 10827,
+    "medianEarnings": 52000,
+    "debtSampleSize": 12280,
+    "medianDebt": 40145
+  },
+  {
+    "cipCode": "5106",
+    "name": "Dental Support Services and Allied Professions.",
+    "earningsSampleSize": 10883,
+    "medianEarnings": 37200,
+    "debtSampleSize": 10566,
+    "medianDebt": 11072
+  },
+  {
+    "cipCode": "5102",
+    "name": "Communication Disorders Sciences and Services.",
+    "earningsSampleSize": 11327,
+    "medianEarnings": 51700,
+    "debtSampleSize": 15196,
+    "medianDebt": 34450
+  },
+  {
+    "cipCode": "5209",
+    "name": "Hospitality Administration/Management.",
+    "earningsSampleSize": 12323,
+    "medianEarnings": 34600,
+    "debtSampleSize": 13605,
+    "medianDebt": 23000
+  },
+  {
+    "cipCode": "1408",
+    "name": "Civil Engineering.",
+    "earningsSampleSize": 12614,
+    "medianEarnings": 60000,
+    "debtSampleSize": 13918,
+    "medianDebt": 24500
+  },
+  {
+    "cipCode": "5139",
+    "name": "Practical Nursing, Vocational Nursing and Nursing Assistants.",
+    "earningsSampleSize": 12648,
+    "medianEarnings": 34700,
+    "debtSampleSize": 19227,
+    "medianDebt": 10215
+  },
+  {
+    "cipCode": "0904",
+    "name": "Journalism.",
+    "earningsSampleSize": 12675,
+    "medianEarnings": 32100,
+    "debtSampleSize": 14856,
+    "medianDebt": 23475
+  },
+  {
+    "cipCode": "1107",
+    "name": "Computer Science.",
+    "earningsSampleSize": 13177,
+    "medianEarnings": 68900,
+    "debtSampleSize": 15738,
+    "medianDebt": 21000
+  },
+  {
+    "cipCode": "0909",
+    "name": "Public Relations, Advertising, and Applied Communication.",
+    "earningsSampleSize": 13312,
+    "medianEarnings": 36300,
+    "debtSampleSize": 15714,
+    "medianDebt": 23875
+  },
+  {
+    "cipCode": "1301",
+    "name": "Education, General.",
+    "earningsSampleSize": 13822,
+    "medianEarnings": 50900,
+    "debtSampleSize": 16614,
+    "medianDebt": 29000
+  },
+  {
+    "cipCode": "5123",
+    "name": "Rehabilitation and Therapeutic Professions.",
+    "earningsSampleSize": 14053,
+    "medianEarnings": 63600,
+    "debtSampleSize": 17182,
+    "medianDebt": 52334
+  },
+  {
+    "cipCode": "1410",
+    "name": "Electrical, Electronics and Communications Engineering.",
+    "earningsSampleSize": 14982,
+    "medianEarnings": 66100,
+    "debtSampleSize": 17366,
+    "medianDebt": 24944
+  },
+  {
+    "cipCode": "1303",
+    "name": "Curriculum and Instruction.",
+    "earningsSampleSize": 15117,
+    "medianEarnings": 48600,
+    "debtSampleSize": 17520,
+    "medianDebt": 23380
+  },
+  {
+    "cipCode": "5120",
+    "name": "Pharmacy, Pharmaceutical Sciences, and Administration.",
+    "earningsSampleSize": 15141,
+    "medianEarnings": 113200,
+    "debtSampleSize": 16907,
+    "medianDebt": 124250
+  },
+  {
+    "cipCode": "1907",
+    "name": "Human Development, Family Studies, and Related Services.",
+    "earningsSampleSize": 15318,
+    "medianEarnings": 28600,
+    "debtSampleSize": 22928,
+    "medianDebt": 25625
+  },
+  {
+    "cipCode": "5401",
+    "name": "History.",
+    "earningsSampleSize": 15342,
+    "medianEarnings": 28200,
+    "debtSampleSize": 21199,
+    "medianDebt": 22407
+  },
+  {
+    "cipCode": "5210",
+    "name": "Human Resources Management and Services.",
+    "earningsSampleSize": 15500,
+    "medianEarnings": 49000,
+    "debtSampleSize": 19399,
+    "medianDebt": 27000
+  },
+  {
+    "cipCode": "5122",
+    "name": "Public Health.",
+    "earningsSampleSize": 16668,
+    "medianEarnings": 40200,
+    "debtSampleSize": 24897,
+    "medianDebt": 29390
+  },
+  {
+    "cipCode": "4228",
+    "name": "Clinical, Counseling and Applied Psychology.",
+    "earningsSampleSize": 17009,
+    "medianEarnings": 43500,
+    "debtSampleSize": 22864,
+    "medianDebt": 57680
+  },
+  {
+    "cipCode": "5004",
+    "name": "Design and Applied Arts.",
+    "earningsSampleSize": 17073,
+    "medianEarnings": 31200,
+    "debtSampleSize": 19122,
+    "medianDebt": 25808
+  },
+  {
+    "cipCode": "1310",
+    "name": "Special Education and Teaching.",
+    "earningsSampleSize": 18096,
+    "medianEarnings": 44500,
+    "debtSampleSize": 20652,
+    "medianDebt": 26388
+  },
+  {
+    "cipCode": "5007",
+    "name": "Fine and Studio Arts.",
+    "earningsSampleSize": 20691,
+    "medianEarnings": 24200,
+    "debtSampleSize": 23461,
+    "medianDebt": 24995
+  },
+  {
+    "cipCode": "5112",
+    "name": "Medicine.",
+    "earningsSampleSize": 20831,
+    "medianEarnings": 55800,
+    "debtSampleSize": 20942,
+    "medianDebt": 177136
+  },
+  {
+    "cipCode": "4506",
+    "name": "Economics.",
+    "earningsSampleSize": 21180,
+    "medianEarnings": 46900,
+    "debtSampleSize": 25640,
+    "medianDebt": 21000
+  },
+  {
+    "cipCode": "3099",
+    "name": "Multi/Interdisciplinary Studies, Other.",
+    "earningsSampleSize": 21182,
+    "medianEarnings": 38100,
+    "debtSampleSize": 28086,
+    "medianDebt": 22536
+  },
+  {
+    "cipCode": "4511",
+    "name": "Sociology.",
+    "earningsSampleSize": 21700,
+    "medianEarnings": 30200,
+    "debtSampleSize": 29198,
+    "medianDebt": 21525
+  },
+  {
+    "cipCode": "1104",
+    "name": "Information Science/Studies.",
+    "earningsSampleSize": 22745,
+    "medianEarnings": 59700,
+    "debtSampleSize": 25247,
+    "medianDebt": 26726
+  },
+  {
+    "cipCode": "1304",
+    "name": "Educational Administration and Supervision.",
+    "earningsSampleSize": 22927,
+    "medianEarnings": 52100,
+    "debtSampleSize": 25177,
+    "medianDebt": 28898
+  },
+  {
+    "cipCode": "4510",
+    "name": "Political Science and Government.",
+    "earningsSampleSize": 23976,
+    "medianEarnings": 33900,
+    "debtSampleSize": 35349,
+    "medianDebt": 21500
+  },
+  {
+    "cipCode": "1101",
+    "name": "Computer and Information Sciences, General.",
+    "earningsSampleSize": 27190,
+    "medianEarnings": 55900,
+    "debtSampleSize": 32093,
+    "medianDebt": 23293
+  },
+  {
+    "cipCode": "1419",
+    "name": "Mechanical Engineering.",
+    "earningsSampleSize": 27666,
+    "medianEarnings": 63100,
+    "debtSampleSize": 33404,
+    "medianDebt": 24250
+  },
+  {
+    "cipCode": "1313",
+    "name": "Teacher Education and Professional Development, Specific Subject Areas.",
+    "earningsSampleSize": 27668,
+    "medianEarnings": 38100,
+    "debtSampleSize": 32293,
+    "medianDebt": 24808
+  },
+  {
+    "cipCode": "5201",
+    "name": "Business/Commerce, General.",
+    "earningsSampleSize": 27829,
+    "medianEarnings": 41800,
+    "debtSampleSize": 34010,
+    "medianDebt": 22899
+  },
+  {
+    "cipCode": "2301",
+    "name": "English Language and Literature, General.",
+    "earningsSampleSize": 28160,
+    "medianEarnings": 27300,
+    "debtSampleSize": 37739,
+    "medianDebt": 21573
+  },
+  {
+    "cipCode": "3105",
+    "name": "Health and Physical Education/Fitness.",
+    "earningsSampleSize": 30287,
+    "medianEarnings": 29300,
+    "debtSampleSize": 49624,
+    "medianDebt": 23833
+  },
+  {
+    "cipCode": "5208",
+    "name": "Finance and Financial Management Services.",
+    "earningsSampleSize": 32131,
+    "medianEarnings": 49800,
+    "debtSampleSize": 37205,
+    "medianDebt": 23000
+  },
+  {
+    "cipCode": "5109",
+    "name": "Allied Health Diagnostic, Intervention, and Treatment Professions.",
+    "earningsSampleSize": 32174,
+    "medianEarnings": 48600,
+    "debtSampleSize": 37324,
+    "medianDebt": 22212
+  },
+  {
+    "cipCode": "5108",
+    "name": "Allied Health and Medical Assisting Services.",
+    "earningsSampleSize": 32414,
+    "medianEarnings": 27800,
+    "debtSampleSize": 35940,
+    "medianDebt": 15750
+  },
+  {
+    "cipCode": "5214",
+    "name": "Marketing.",
+    "earningsSampleSize": 33060,
+    "medianEarnings": 41800,
+    "debtSampleSize": 39097,
+    "medianDebt": 22500
+  },
+  {
+    "cipCode": "2201",
+    "name": "Law.",
+    "earningsSampleSize": 40566,
+    "medianEarnings": 55400,
+    "debtSampleSize": 42792,
+    "medianDebt": 119909
+  },
+  {
+    "cipCode": "2601",
+    "name": "Biology, General.",
+    "earningsSampleSize": 43959,
+    "medianEarnings": 28300,
+    "debtSampleSize": 85922,
+    "medianDebt": 23063
+  },
+  {
+    "cipCode": "5107",
+    "name": "Health and Medical Administrative Services.",
+    "earningsSampleSize": 49204,
+    "medianEarnings": 26800,
+    "debtSampleSize": 67461,
+    "medianDebt": 19187
+  },
+  {
+    "cipCode": "4407",
+    "name": "Social Work.",
+    "earningsSampleSize": 49351,
+    "medianEarnings": 42500,
+    "debtSampleSize": 66522,
+    "medianDebt": 34788
+  },
+  {
+    "cipCode": "0901",
+    "name": "Communication and Media Studies.",
+    "earningsSampleSize": 54324,
+    "medianEarnings": 33400,
+    "debtSampleSize": 66907,
+    "medianDebt": 22649
+  },
+  {
+    "cipCode": "5203",
+    "name": "Accounting and Related Services.",
+    "earningsSampleSize": 61534,
+    "medianEarnings": 48700,
+    "debtSampleSize": 72909,
+    "medianDebt": 23516
+  },
+  {
+    "cipCode": "1312",
+    "name": "Teacher Education and Professional Development, Specific Levels and Methods.",
+    "earningsSampleSize": 72162,
+    "medianEarnings": 36900,
+    "debtSampleSize": 83466,
+    "medianDebt": 25000
+  },
+  {
+    "cipCode": "4301",
+    "name": "Criminal Justice and Corrections.",
+    "earningsSampleSize": 82937,
+    "medianEarnings": 32900,
+    "debtSampleSize": 102527,
+    "medianDebt": 23635
+  },
+  {
+    "cipCode": "4201",
+    "name": "Psychology, General.",
+    "earningsSampleSize": 94584,
+    "medianEarnings": 29100,
+    "debtSampleSize": 153902,
+    "medianDebt": 23635
+  },
+  {
+    "cipCode": "2401",
+    "name": "Liberal Arts and Sciences, General Studies and Humanities.",
+    "earningsSampleSize": 103973,
+    "medianEarnings": 26200,
+    "debtSampleSize": 194578,
+    "medianDebt": 12000
+  },
+  {
+    "cipCode": "5202",
+    "name": "Business Administration, Management and Operations.",
+    "earningsSampleSize": 213582,
+    "medianEarnings": 45400,
+    "debtSampleSize": 250767,
+    "medianDebt": 25249
+  },
+  {
+    "cipCode": "5138",
+    "name": "Registered Nursing, Nursing Administration, Nursing Research and Clinical Nursing.",
+    "earningsSampleSize": 222484,
+    "medianEarnings": 63100,
+    "debtSampleSize": 268887,
+    "medianDebt": 21500
+  }
+]

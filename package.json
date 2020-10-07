@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "download-data": "node ./downloadData.js"
+    "download-data": "node ./downloadData.js",
+    "transform-data": "node ./transformData.js"
   },
   "author": "Dylan Nissley <dylan.nissley@gmail.com>",
   "license": "Unlicense",
