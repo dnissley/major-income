@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <script src="https://d3js.org/d3.v4.js"></script>
+</head>
+<body>
+  <div id="graph"></div>
+
+  <script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 30, bottom: 30, left: 60},
+    width = 900 - margin.left - margin.right,
+    height = 900 - margin.top - margin.bottom;
+
+// append the svg object to the body of the page
+var svg = d3.select("#graph")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+//Read the data
+d3.json("https://raw.githubusercontent.com/dnissley/major-income/master/degreeData.json", (data) => {
+
+  // Add X axis
+  var x = d3.scaleLinear()
+    .domain([0, 200000])
+    .range([ 0, width ]);
+  var xAxis = svg.append("g")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x).tickFormat(d3.format(".2s")));
+
+  // Add Y axis
+  var y = d3.scaleLinear()
+    .domain([0, 300000])
+    .range([ height, 0]);
+  var yAxis = svg.append("g")
+    .call(d3.axisLeft(y).tickFormat(d3.format(".2s")));
+
+  // Add a clipPath: everything out of this area won't be drawn.
+  var clip = svg.append("defs").append("SVG:clipPath")
+    .attr("id", "clip")
+    .append("SVG:rect")
+    .attr("width", width)
+    .attr("height", height)
+    .attr("x", 0)
+    .attr("y", 0);
+
+  // Create the scatter variable: where both the circles and the brush take place
+  var scatter = svg.append('g')
+    .attr("clip-path", "url(#clip)")
+
+  // Add a tooltip div. Here I define the general feature of the tooltip: stuff that do not depend on the data point.
+  // Its opacity is set to 0: we don't see it by default.
+  var tooltip = d3.select("#graph")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltip")
+    .style("background-color", "white")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("border-radius", "5px")
+    .style("padding", "10px")
+
+  // A function that change this tooltip when the user hover a point.
+  // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
+  var mouseover = function(d) {
+    tooltip.style("opacity", 1);
+  }
+
+  var mousemove = function(d) {
+    tooltip
+      .html(`Degree: ${d.name}<br>Median Earnings: ${d.medianEarnings}<br>Median Debt: ${d.medianDebt}`)
+      .style("left", (d3.mouse(this)[0]+90) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1]) + "px");
+  }
+
+  // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
+  var mouseleave = function(d) {
+    tooltip
+      .transition()
+      .duration(200)
+      .style("opacity", 0);
+  }
+
+  // Add dots
+  scatter.selectAll("circle")
+    .data(data)
+    .enter()
+    .append("circle")
+      .attr("cx", function (d) { return x(d.medianEarnings); } )
+      .attr("cy", function (d) { return y(d.medianDebt); } )
+      .attr("r", 5)
+      .style("fill", "#328c78")
+      .style("opacity", 0.3)
+      .style("stroke", "white")
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave);
+
+  // Set the zoom and Pan features: how much you can zoom, on which part, and what to do when there is a zoom
+  var zoom = d3.zoom()
+      .scaleExtent([.5, 20])  // This control how much you can unzoom (x0.5) and zoom (x20)
+      .extent([[0, 0], [width, height]])
+      .on("zoom", updateChart);
+
+  // This add an invisible rect on top of the chart area. This rect can recover pointer events: necessary to understand when the user zoom
+  svg.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .style("fill", "none")
+      .style("pointer-events", "all")
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')
+      .lower()
+      .call(zoom);
+  // now the user can zoom and it will trigger the function called updateChart
+
+  // A function that updates the chart when the user zoom and thus new boundaries are available
+  function updateChart() {
+    // recover the new scale
+    var newX = d3.event.transform.rescaleX(x);
+    var newY = d3.event.transform.rescaleY(y);
+
+    // update axes with these new boundaries
+    xAxis.call(d3.axisBottom(newX).tickFormat(d3.format(".2s")))
+    yAxis.call(d3.axisLeft(newY).tickFormat(d3.format(".2s")))
+
+    // update circle position
+    scatter
+      .selectAll("circle")
+      .attr('cx', function(d) {return newX(d.medianEarnings)})
+      .attr('cy', function(d) {return newY(d.medianDebt)});
+  }
+});
+
+  </script>
+</body>
